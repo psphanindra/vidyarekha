@@ -1,7 +1,6 @@
 title:  VidyaRekha
 tagline:   Where million steps starts
 
-# Authors documented under _data
 
 
 
@@ -11,7 +10,7 @@ menu:
 - {name: 'Writing', path: 'menu', url: 'writing.html'}
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
 
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+
 social:
 - {icon: 'github', link: 'https://www.github.com/psphanindra'}
 
