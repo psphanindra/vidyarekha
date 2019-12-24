@@ -1,7 +1,0 @@
-Today's topic is about code search.
-ServiceNow has developed a utility called "code search" which helps to search a code both within and outside of your application.
-You can easily make changes in the code and find the location of variables used in the scripts.
-Steps for how to use.
-1)Type studio in the application navigation.Open the application studio and open any application.
-2)on the upper right side corner you will find the code search option.
-EX: you want to search a field 'u_name'.Go to code search and enter this number and it will display all the script name where it is used.
