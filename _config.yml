@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 
 title:		           "VidyaRekha"
-description:	       "Where million steps starts"
+description:	       "First step to million"
 author:              "Phanindra Kumar"
 baseurl: ""
 url: "http://phanindrakumar.com"
